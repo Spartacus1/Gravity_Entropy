@@ -1,6 +1,6 @@
 # Gravity_Entropy
 
-This repository hosts the Jupyter notebooks and supplementary materials for the research project:
+This repository hosts the Jupyter notebooks and supplementary materials for the research work:
 
 **"Gravity as an Entropic Deficit Field"**  
 by Renato Henriques.
