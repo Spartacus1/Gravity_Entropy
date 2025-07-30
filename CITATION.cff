@@ -1,0 +1,11 @@
+cff-version: 1.0.1
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Henriques
+    given-names: Renato
+    orcid: https://orcid.org/0000-0002-7073-7628 
+title: Gravity_Entropy: Gravity Entropy Jupyter Notebooks
+version: v1.0.1
+DOI: [10.5281/zenodo.16622065](https://doi.org/10.5281/zenodo.16622065)
+date-released: 2025-07-30
+url: https://github.com/Spartacus1/Gravity_Entropy
