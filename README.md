@@ -4,7 +4,7 @@
 
 This repository hosts the Jupyter notebooks and supplementary materials for the research work:
 
-**"Gravity as an Entropic Deficit Field"**  
+**"Gravity as an Entropic Gradient Field"**  
 by Renato Henriques.
 Institute os Earth Sciences; Department of Earth Sciences, School of Sciences, University of Minho, Portugal. 
 
